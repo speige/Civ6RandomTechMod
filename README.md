@@ -1,6 +1,8 @@
 # Civilization VI Random Tech Mod
 
-https://youtu.be/99Q6GoVHpkY
+[![Game Modding Tutorial]
+(https://img.youtube.com/vi/99Q6GoVHpkY/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=99Q6GoVHpkY)
 
 This randomizes the Tech & Civic trees for Civilization VI. It's different than the built-in shuffle, because this also randomizes across eras, so you can get future tech during ancient era.
 
