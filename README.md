@@ -3,6 +3,10 @@
 https://www.youtube.com/watch?v=99Q6GoVHpkY
 {% include youtube.html id="99Q6GoVHpkY" %}
 
+[![Tutorial]
+(https://img.youtube.com/vi/99Q6GoVHpkY/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=99Q6GoVHpkY)
+
 This randomizes the Tech & Civic trees for Civilization VI. It's different than the built-in shuffle, because this also randomizes across eras, so you can get future tech during ancient era.
 
 The research costs are adjusted so if a future tech is moved to ancient era, it will be inexpensive to research. However, the construction & upkeep costs are not adjusted, so if the RNG gives you Mechanized Infantry early, you may be able to research it, but not necessarily have the resources to train a unit.
